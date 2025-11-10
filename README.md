@@ -56,5 +56,4 @@ To implement an ARM assembly program allowing users to control an LED pixel usin
 
 ---
 
-## 📄 Report
-Full technical documentation is available in **Microbit Assignment Report.pdf**.
+
